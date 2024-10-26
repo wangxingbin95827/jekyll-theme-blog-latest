@@ -88,5 +88,5 @@
 
 <!-- .slide vertical=true -->
 
-欢迎[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io)](https://github.com/wu-kan/wu-kan.github.io)、[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io)](https://github.com/wu-kan/wu-kan.github.io/fork)、[![Issue](https://img.shields.io/github/issues/wu-kan/wu-kan.github.io)](https://github.com/wu-kan/wu-kan.github.io/issues)！
+欢迎[![Star](https://img.shields.io/github/stars/wangxingbin95827/wangxingbin95827.github.io)](https://github.com/wangxingbin95827/wangxingbin95827.github.io)、[![Fork](https://img.shields.io/github/forks/wangxingbin95827/wangxingbin95827.github.io)](https://github.com/wangxingbin95827/wangxingbin95827.github.io/fork)、[![Issue](https://img.shields.io/github/issues/wangxingbin95827/wangxingbin95827.github.io)](https://github.com/wangxingbin95827/wangxingbin95827.github.io/issues)！
 
