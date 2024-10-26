@@ -88,5 +88,4 @@
 
 <!-- .slide vertical=true -->
 
-欢迎[![Star](https://img.shields.io/github/stars/wangxingbin95827/wangxingbin95827.github.io)](https://github.com/wangxingbin95827/wangxingbin95827.github.io)、[![Fork](https://img.shields.io/github/forks/wangxingbin95827/wangxingbin95827.github.io)](https://github.com/wangxingbin95827/wangxingbin95827.github.io/fork)、[![Issue](https://img.shields.io/github/issues/wangxingbin95827/wangxingbin95827.github.io)](https://github.com/wangxingbin95827/wangxingbin95827.github.io/issues)！
 
