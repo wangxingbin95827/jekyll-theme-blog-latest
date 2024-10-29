@@ -1,0 +1,35 @@
+<div class="code-block">
+  <pre><code class="{{ include.language }}">{{ include.code }}</code></pre>
+  <button class="copy-btn" onclick="copyCode(this)">复制</button>
+</div>
+
+<script>
+  function copyCode(button) {
+    const code = button.previousElementSibling.querySelector('code');
+    const text = code.innerText;
+
+    navigator.clipboard.writeText(text).then(() => {
+      button.innerText = '已复制';
+      setTimeout(() => {
+        button.innerText = '复制';
+      }, 2000);
+    });
+  }
+</script>
+
+<style>
+  .code-block {
+    position: relative;
+    margin: 1em 0;
+  }
+  .copy-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5em;
+    cursor: pointer;
+  }
+</style>
